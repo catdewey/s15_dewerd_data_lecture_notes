@@ -3,8 +3,9 @@
 
 ---
 ## Lecture 1 1/12/15
-###### - online markdown site: dilllingeer.io
+###### online markdown site: dilllingeer.io
 - does this one have a small font now too?
+- this should be a list here.
 odd, I seem to need at least one ret line after the list to make the next thing work.
 
 ## Lecture 2 1/15/15 
