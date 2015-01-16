@@ -3,9 +3,8 @@
 
 ---
 ## Lecture 1 1/12/15
-###### 
-- online markdown site: dilllingeer.io
-- 
+###### - online markdown site: dilllingeer.io
+- does this one have a small font now too?
 ## Lecture 2 1/15/15 
 ---
 HW: Email him, get groups set up for REST HW
