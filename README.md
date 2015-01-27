@@ -55,9 +55,9 @@ UTF8 >> ACII
 
 Data Lifecycle:
 See written notes.
---------
-Tue Jan 20, 2015
 
+Tue Jan 20, 2015
+-----
 Due date for hw 1 is next week Thursday.
 
 REST is architecture style. Used to developing web services that mimic the design of the Web itself. Documentation is a webpage.  Provides access to linked set of resources for each resource can CRUD or other operations. 
@@ -73,7 +73,7 @@ url ends in ? anything after is query parameters. Spaces may need to be hard cod
 
 In request response cycle, each operation produces a response, typically synchronous. 
 Responses in JSON usually. Other formats are possible HTML or XML. Can convert to maps, easily compressible, and fine control. Typically JSON both ways. Need authentication, OATH, easy in HTTP. 
-______________________________
+
 Operations on 2 resources 
 /user/0
 /possessions/0
@@ -92,9 +92,9 @@ rackup to bring up test data
 
 use actual database like sql3
 
-————————————————————
+
 Thursday Jan 22
- 
+--------- 
 get curl
 make team, decide hw, work on it.
 
@@ -120,7 +120,7 @@ push remote repo name, pushes updated branch to remote one
 
 git status (see status of files) -b (name of branch in)
 
-# is comment
+````#```` is comment
 
 fetch will get everything about the changes, you have the new things but not actually changed.
 
@@ -158,8 +158,9 @@ body parser, sql/ sql light.
 
 
 
-——————————
+
 Tuesday Jan 27, 2015
+------
 Lecture 5
 
 Active record, sqlLite3, mongo 
